@@ -54,8 +54,8 @@ def distance():
 if __name__ == "__main__":
 
     # Sensor initialization
-    GPIO.setup(trig, GPIO.OUT)
-    GPIO.setup(echo, GPIO.IN)
+    GPIO.setup(GPIO_TRIG, GPIO.OUT)
+    GPIO.setup(GPIO_ECHO, GPIO.IN)
 
     # Servo motor initialization
     GPIO.setup(GPIO_SERVO, GPIO.OUT)
