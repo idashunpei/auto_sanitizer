@@ -14,9 +14,9 @@ import RPi.GPIO as GPIO
 import time
 
 # Pins
-GPIO_TRIG = 22
-GPIO_ECHO = 27
 GPIO_SERVO = 17
+GPIO_ECHO = 27
+GPIO_TRIG = 22
 
 # GPIO Mode (BOARD / BCM)
 GPIO.setmode(GPIO.BCM)
