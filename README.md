@@ -2,6 +2,8 @@
 
 Auto sanitizer
 
+Inspired by https://www.facebook.com/groups/mcalglobal/permalink/2920111298032751/
+
 ### Contents ###
 
 3 hardware implementations
@@ -18,7 +20,3 @@ Auto sanitizer
 ### Setup ###
 
 See soruce code for pin assignment...
-
-### References ###
-
-* https://thepihut.com/blogs/raspberry-pi-tutorials/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi
