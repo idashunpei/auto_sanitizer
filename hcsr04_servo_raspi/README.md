@@ -6,6 +6,6 @@ Inspired by https://www.facebook.com/groups/mcalglobal/permalink/292011129803275
 
 ### Reference ###
 
-* http://umiushizn.blogspot.com/2017/10/hc-sr04raspberry-pi.html
+* https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/
 * https://tutorials-raspberrypi.com/raspberry-pi-servo-motor-control/e
 
