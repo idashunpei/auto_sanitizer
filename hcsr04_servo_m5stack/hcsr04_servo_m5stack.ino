@@ -37,11 +37,11 @@ void loop(){
   M5.Lcd.println(" cm   ");
   
   if (distance < 10) {
-    myservo.write(10);
+    myservo.write(110);
     color = GREEN;
     M5.Lcd.fillCircle(160, 135, 70, GREEN);
   } else {
-    myservo.write(180);
+    myservo.write(10);
     M5.Lcd.fillCircle(160, 135, 70, BLACK);
   }
   
